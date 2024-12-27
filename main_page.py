@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 
+print("수정사항")
 data = open('C:\\KIMUJUNG\\python basic\\my_page\\DM_FPOPL_D_SM_20200205_sample.csv','r')
 
 st.title('인구이동량')
